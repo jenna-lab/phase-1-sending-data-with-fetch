@@ -1,6 +1,6 @@
 const submitData = {
-  userName: "jensam",
-  userEmail: "jensam@gmail.com",
+  userName: " ",
+  userEmail: " ",
 };
 
 const configurationObject = {
